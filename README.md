@@ -24,3 +24,14 @@
 - Stock global quotes are parsed/cleaned and inserted into dataframes to dump data to excel.
 - Stock data is echoed to user for confirmation.
 
+  #Stock Attributes:
+        *1. symbol:*
+        *2. open:*
+        *3. high:*
+        *4. low:*
+        *5. price:*
+        *6. volume:*
+        *7. latest trading day:*
+        *8. previous close:*
+        *9. change:*
+        *10. change percent:*
