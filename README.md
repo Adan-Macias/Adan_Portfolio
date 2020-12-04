@@ -1,17 +1,17 @@
-### Adan_Portfolio
+# Adan_Portfolio
 
-# Project 1: ESPN NFL Data Analysis
+## Project 1: ESPN NFL Data Analysis
 - Web-scraping(Python Beautiful Soup Package) program to parse HTML structures.
 - Extracted various tables while also transferring data-frames to Excel worksheets for analysis. 
 - Specialized SQL Queries are also integrated into this Python program to retrieve unique and customized NFL statistics from Excel.
 - Produced data visualizations using Matplotlib python library.
 
-# Project 2: YouTube Video Analysis
+## Project 2: YouTube Video Analysis
 - This project involves deep analysis on any public Youtube video by using available API's.
 - Parsed/Refined nested JSON request using Python data structures. 
 - This project is agile and provides different types of API requests on Youtube metadata and provides useful data on target videos.
 
-# Project 3: Alpha Vantage Stock Quotes
+## Project 3: Alpha Vantage Stock Quotes
 - Utilizing Alpha Vantage API to retrieve stock attributes and changes.
 - Each stock global quote contains idle time of 12 seconds to fulfill API limitations.
 - This project conatins pre-loaded stock symbol txt file retrieve most common symbols.
