@@ -6,6 +6,12 @@
 - Specialized SQL Queries are also integrated into this Python program to retrieve unique and customized NFL statistics from Excel.
 - Produced data visualizations using Matplotlib python library.
 
+  - [x] Current QB stats
+  - [x] QB negatives (Sacks/Interceptions).
+  - [x] Current Team standings.
+  - [x] NFL worst team/s
+  - [x] Injuries
+
 ## Project 2: YouTube Video Analysis
 - This project involves deep analysis on any public Youtube video by using available API's.
 - Parsed/Refined nested JSON request using Python data structures. 
