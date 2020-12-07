@@ -11,6 +11,8 @@
   - **[x] Current Team standings**
   - **[x] NFL worst team/s**
   - **[x] Injuries**
+ 
+ ![alt text](top10_standings.JPG)
 
 ## Project 2: YouTube Video Analysis
 - This project involves deep analysis on any public Youtube video by using available API's.
