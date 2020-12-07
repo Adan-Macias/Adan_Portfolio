@@ -12,7 +12,11 @@
   - **[x] NFL worst team/s**
   - **[x] Injuries**
  
- ![alt text](top10_standings.JPG)
+ ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/top10_standings.JPG)
+ ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/top10_QB.JPG)
+ ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/TD.JPG)
+ ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/sacks.JPG)
+ 
 
 ## Project 2: YouTube Video Analysis
 - This project involves deep analysis on any public Youtube video by using available API's.
