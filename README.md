@@ -1,6 +1,6 @@
 # Adan_Portfolio
 
-## [Project 1: ESPN NFL Data Analysis] (https://github.com/Adan-Macias/espn_nfl_stats)
+## [Project 1: ESPN NFL Data Analysis](https://github.com/Adan-Macias/espn_nfl_stats)
 - Webscraping(Python Beautiful Soup Package) program to parse HTML structures.
 - Extracted various tables while also transferring DataFrames to Excel worksheets for analysis. 
 - Specialized SQL Queries are also integrated into this Python program to retrieve unique and customized NFL statistics from Excel.
