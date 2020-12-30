@@ -27,24 +27,11 @@
 - Main purpose of this project is to isolate comments & word usage to log popular words or trending strings per videoID.
 - Emoji frequency is also logged on target videoID.
 
-## Project 3: Alpha Vantage Stock Quotes
-- Utilizing Alpha Vantage API to retrieve stock attributes and changes.
-- Each stock global quote contains idle time of 12 seconds to fulfill API limitations.
-- This project conatins pre-loaded stock symbol txt file retrieve most common symbols.
-- Stock global quotes are parsed/cleaned and inserted into dataframes to dump data to excel.
-- Stock data is echoed to user for confirmation.
+## [Project 3: Alpha Vantage Stock Quotes](https://github.com/Adan-Macias/Stock_Project)
+- Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
+- Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
+- Stock data is dependent on a txt file which contains stock symbols of x quantity.
+- Produced data visualizations using Matplotlib & mplfinance.
+- This projects performs all operations and functions using an automated approach.
 
-### Stock Attributes:
-1. *symbol:*
-2. *open:*
-3. *high:*
-4. *low:*
-5. *price:*
-6. *volume:*
-7. *latest trading day:*
-8. *previous close:*
-9. *change:*
-10. *change percent:*
 
-## Project 4: Predicting Credit Card Churners
-###  **IN PROGRESS...**
