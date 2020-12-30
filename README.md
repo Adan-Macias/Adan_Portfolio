@@ -14,7 +14,6 @@
   - **[x] NFL worst team/s**
   - **[x] Injuries**
  
-![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/TD.png)
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/TD-INT.png)
 
 
