@@ -14,10 +14,9 @@
   - **[x] NFL worst team/s**
   - **[x] Injuries**
  
-![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/TD_Per_QB.png)
-![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/sacks.png)
-![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/QBR-CMP.png)
-![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/TD-INT.png)
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/TD.png)
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/TD-INT.png)
+
 
 ## [Project 2: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
 - CommentThread resource is used to retrieve Youtube comment data with various attributes on target video.
@@ -27,11 +26,15 @@
 - Main purpose of this project is to isolate comments & word usage to log popular words or trending strings per videoID.
 - Emoji frequency is also logged on target videoID.
 
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/popularity_100.png)
+
 ## [Project 3: Alpha Vantage Stock Quotes](https://github.com/Adan-Macias/Stock_Project)
 - Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
 - Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
 - Stock data is dependent on a txt file which contains stock symbols of x quantity.
 - Produced data visualizations using Matplotlib & mplfinance.
 - This projects performs all operations and functions using an automated approach.
+
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
 
 
