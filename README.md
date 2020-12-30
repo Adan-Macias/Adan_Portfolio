@@ -1,6 +1,6 @@
 # Adan_Portfolio
 
-## [Project 1: ESPN NFL Data Analysis](https://github.com/Adan-Macias/espn_nfl_stats)
+## [Project 1: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/espn_nfl_stats)
 - Webscraping(Python Beautiful Soup Package) program to parse HTML structures.
 - Extracted various tables while also transferring DataFrames to Excel worksheets for analysis. 
 - Specialized SQL Queries are also integrated into this Python program to retrieve unique and customized NFL statistics from Excel.
@@ -27,7 +27,7 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/popularity_100.png)
 
-## [Project 3: Alpha Vantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
+## [Project 3: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
 - Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
 - Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
 - Stock data is dependent on a txt file which contains stock symbols of x quantity.
