@@ -19,10 +19,13 @@
 ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/QBR-CMP.png)
 ![](https://raw.githubusercontent.com/Adans-Code/espn_nfl_stats/main/Data%20Visulizations/TD-INT.png)
 
-## Project 2: YouTube Video Analysis
-- This project involves deep analysis on any public Youtube video by using available API's.
-- Parsed/Refined nested JSON request using Python data structures. 
-- This project is agile and provides different types of API requests on Youtube metadata and provides useful data on target videos.
+## [Project 2: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
+- CommentThread resource is used to retrieve Youtube comment data with various attributes on target video.
+- List by videoID function is used as main API function with desired parameters.
+- Comments are analyzed based on a limited value of 100.
+- Target videoID's can be filtered by SQL functionality [optional].
+- Main purpose of this project is to isolate comments & word usage to log popular words or trending strings per videoID.
+- Emoji frequency is also logged on target videoID.
 
 ## Project 3: Alpha Vantage Stock Quotes
 - Utilizing Alpha Vantage API to retrieve stock attributes and changes.
