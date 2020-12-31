@@ -26,6 +26,7 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/popularity_100.png)
 
+
 ## [Project 3: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
 - Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
 - Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
@@ -34,6 +35,7 @@
 - This projects performs all operations and functions using an automated approach.
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
+
 
 ## Project 4: Wine Review Data
 ##
