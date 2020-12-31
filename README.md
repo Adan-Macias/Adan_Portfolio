@@ -36,6 +36,5 @@
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
 
 ## Project 4: Wine Review Data
-## 
 
 ## **........In Progress**
