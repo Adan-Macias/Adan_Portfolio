@@ -13,7 +13,7 @@
   - **[x] NFL worst team/s**
   - **[x] Injuries**
  
-![](https://raw.githubusercontent.com/Adan-Macias/espn_nfl_stats/main/Data_Visuals/TD-SACK.png)
+![](https://raw.githubusercontent.com/Adan-Macias/espn_nfl_stats/main/Data_Visuals/TD_SACK.png)
 
 
 ## [Project 2: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
