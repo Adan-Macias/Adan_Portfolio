@@ -15,8 +15,16 @@
  
 ![](https://raw.githubusercontent.com/Adan-Macias/espn_nfl_stats/main/Data_Visuals/TD_SACK.png)
 
+## [Project 2: WineReview Project Overview](https://github.com/Adan-Macias/WineReview_Project)
+- Provides analysis on wine review data containing close to 130k datapoints
+- Purpose of this project focuses on superior wine information based on a grading scale 80 - 100
+- Provides various data visualizations on superior wine interval along with a distribution of all intervals as per wine points
+- Visuals are auto saved after every execution and conmtained in a single subplot grid.
 
-## [Project 2: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
+![](https://raw.githubusercontent.com/Adan-Macias/WineReview_Project/master/Data_Visuals/wine_quality.png)
+
+
+## [Project 3: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
 - CommentThread resource is used to retrieve Youtube comment data with various attributes on target video.
 - List by videoID function is used as main API function with desired parameters.
 - Comments are analyzed based on a limited value of 100.
@@ -26,7 +34,7 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/popularity_100.png)
 
-## [Project 3: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
+## [Project 4: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
 - Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
 - Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
 - Stock data is dependent on a txt file which contains stock symbols of x quantity.
@@ -35,6 +43,3 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
 
-## Project 4: Wine Review Data
-
-## **........In Progress**
