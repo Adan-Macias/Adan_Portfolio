@@ -23,6 +23,8 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/WineReview_Project/master/Data_Visuals/wine_quality.png)
 
+![](https://raw.githubusercontent.com/Adan-Macias/WineReview_Project/master/Data_Visuals/top25_variations.png)
+
 
 ## [Project 3: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
 - CommentThread resource is used to retrieve Youtube comment data with various attributes on target video.
