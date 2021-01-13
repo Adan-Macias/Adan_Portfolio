@@ -19,7 +19,7 @@
 - Provides analysis on wine review data containing close to 130k datapoints
 - Purpose of this project focuses on superior wine information based on a grading scale 80 - 100
 - Provides various data visualizations on superior wine interval along with a distribution of all intervals as per wine points
-- Visuals are auto saved after every execution and conmtained in a single subplot grid.
+- Visuals are auto saved after every execution and contained in a single subplot grid.
 
 ![](https://raw.githubusercontent.com/Adan-Macias/WineReview_Project/master/Data_Visuals/wine_quality.png)
 
