@@ -45,3 +45,13 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
 
+## Project 5: Tableau Bank Churners Overview
+- Analysis on credit card data to identify trends and compare attributes between existing and attrited customers.
+- Data is cleaned and filtered by removing unkown values on target attributes.
+- Stacked bar chart is generated to compare totals based on education levels on existing/attrited customers.
+- Highlighted matrix generated which provides insight into marital status and card categories.
+- Scatter plot produces various averages on columns involving relationships and utilization ratios which could differentiate attrited vs existing customers.
+- Dashboard is interactive and contains various filters along with highlighters to provide deeper analysis.
+
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/Dashboard-1.PNG)
+
