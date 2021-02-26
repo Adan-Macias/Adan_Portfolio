@@ -1,4 +1,4 @@
-## [Project 1: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/Stroke_Project/blob/main/Stroke_Events.ipynb)
+## [Project 1: Stroke Event Contributing Factors](https://github.com/Adan-Macias/Stroke_Project/blob/main/Stroke_Events.ipynb)
 - This dataset is used to analyze in depth key factors that may be contributing to stroke events based on the input parameters like gender, hypertension, heart disease, glucose levels and smoking status.
 - This jupyter notebook contains various data visualizations describing patterns and relationships between key attributes asscociated with stroke events.
 - This analysis is focused on stroke events being **True** and compares/contrast between target attributes such as hypertension, glucose levels, and heart disease.
