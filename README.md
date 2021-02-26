@@ -4,6 +4,12 @@
 - This analysis is focused on stroke events being **True** and compares/contrast between target attributes such as hypertension, glucose levels, and heart disease.
 - BMI values are observed and compared to target attributes on interval BMI >= 25, containing **83.3%** of the stroke events.
 
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/hyper_hd.PNG)
+
+
+![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/glucose_bmi.PNG)
+
+
 ## [Project 2: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/espn_nfl_stats)
 - Webscraping(Python Beautiful Soup Package) program to parse HTML structures.
 - Extracted various tables while also transferring DataFrames to Excel worksheets for analysis. 
