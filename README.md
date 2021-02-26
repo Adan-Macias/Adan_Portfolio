@@ -1,5 +1,10 @@
+## [Project 1: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/Stroke_Project/blob/main/Stroke_Events.ipynb)
+- This dataset is used to analyze in depth key factors that may be contributing to stroke events based on the input parameters like gender, hypertension, heart disease, glucose levels and smoking status.
+- This jupyter notebook contains various data visualizations describing patterns and relationships between key attributes asscociated with stroke events.
+- This analysis is focused on stroke events being **True** and compares/contrast between target attributes such as hypertension, glucose levels, and heart disease.
+- BMI values are observed and compared to target attributes on interval BMI >= 25, containing **83.3%** of the stroke events.
 
-## [Project 1: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/espn_nfl_stats)
+## [Project 2: ESPN NFL Data Analysis Overview](https://github.com/Adan-Macias/espn_nfl_stats)
 - Webscraping(Python Beautiful Soup Package) program to parse HTML structures.
 - Extracted various tables while also transferring DataFrames to Excel worksheets for analysis. 
 - Specialized SQL Queries are also integrated into this Python program to retrieve unique and customized NFL statistics from Excel.
@@ -15,7 +20,7 @@
  
 ![](https://raw.githubusercontent.com/Adan-Macias/espn_nfl_stats/main/Data_Visuals/TD_SACK.png)
 
-## [Project 2: WineReview Project Overview](https://github.com/Adan-Macias/WineReview_Project)
+## [Project 3: WineReview Project Overview](https://github.com/Adan-Macias/WineReview_Project)
 - Provides analysis on wine review data containing close to 130k datapoints
 - Purpose of this project focuses on superior wine information based on a grading scale 80 - 100
 - Provides various data visualizations on superior wine interval along with a distribution of all intervals as per wine points
@@ -26,7 +31,7 @@
 ![](https://raw.githubusercontent.com/Adan-Macias/WineReview_Project/master/Data_Visuals/top25_variations.png)
 
 
-## [Project 3: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
+## [Project 4: YouTube Video Analysis Overview](https://github.com/Adan-Macias/Youtube_Project)
 - CommentThread resource is used to retrieve Youtube comment data with various attributes on target video.
 - List by videoID function is used as main API function with desired parameters.
 - Comments are analyzed based on a limited value of 100.
@@ -36,7 +41,7 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/popularity_100.png)
 
-## [Project 4: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
+## [Project 5: AlphaVantage Stock Overview](https://github.com/Adan-Macias/Stock_Project)
 - Using Global_Quote API. A lightweight alternative to the time series APIs, this service returns the price and volume information for a security of your choice
 - Utlizing Time_Series_Monthly. This API returns monthly time series (last trading day of each month, monthly open, monthly high, monthly low, monthly close, monthly volume) of the global equity specified, covering 20+ years of historical data. 
 - Stock data is dependent on a txt file which contains stock symbols of x quantity.
@@ -45,7 +50,7 @@
 
 ![](https://raw.githubusercontent.com/Adan-Macias/Adan_Portfolio/main/Images/MSFT.png)
 
-## Project 5: Tableau Bank Churners Overview
+## Project 6: Tableau Bank Churners Overview
 - Analysis on credit card data to identify trends and compare attributes between existing and attrited customers.
 - Data is cleaned and filtered by removing unkown values on target attributes.
 - Stacked bar chart is generated to compare totals based on education levels on existing/attrited customers.
